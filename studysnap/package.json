@@ -1,0 +1,9 @@
+{
+  "name": "studysnap",
+  "version": "1.0.0",
+  "description": "AI Study Guide & Flashcard Generator",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.0"
+  }
+}
